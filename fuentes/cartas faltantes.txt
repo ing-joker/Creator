@@ -1,0 +1,451 @@
+evolución inestable		ur		||
+evo-precio			ur		||
+tácticas dragónicas		ur		||
+el no elegido			ur		||
+sobrecarga de fusión		ur--		||
+pánico de bufón			ur		||
+baraja y renace			ur		||
+fábrica de chatarra		ur		||
+doble pildora de evolución	ur		||
+fósil viviente			ur		||
+colapso				ur		||
+chispa géminis			ur		||
+mausoleo blanco			ur--		||
+las puertas del mundo oscuro	ur		||
+ojamatch			ur--		||
+fusión futura			ur-		||
+renacido monstruo renacido	ur		||
+perdición silenciosa		ur		||
+amistad				ur		||
+noble de crossout		ur		||
+r.d.d. reencarnación de la dimensión diferente ur||
+valor raro			ur		||
+conexión de cristal		ur		||
+fuegos del día del juicio	ur-		||
+lazos de los hermanos		ur		||
+rescate				ur		||
+unidad				ur		||
+entierro exagerado		ur		||
+relámpago del mundo oscuro	ur		||
+vestido prohibido		ur--		||
+cortina de magia oscura		ur---		||
+el gran camino del ganado	ur		||
+hacia el vacío			ur--		||
+de-fusión			ur--		||
+libro taiyou			ur-		||
+sacrificio a los condenados	ur--		||
+búsqueda de fósiles		ur		||
+reino toon			ur		||
+supervisar			ur		||
+laboratorio de investigación cerebral	ur	||
+sabio de la fusión		ur		||
+símbolos del deber		ur		||
+intercambio de almas		ur		||
+noble de exterminio		ur		||
+colgante negro			ur		||
+destrucción aplastante		ur		||
+medio cerrado			ur		||
+riryoku				ur		||
+unidad de acción autónoma	ur		||
+
+
+
+-----------------------------------------
+
+interruptor de senet		sr		||
+barrera protectora sagrada	sr		||
+lienzo meteorológico nevado	sr---		||
+imitación			sr		||
+la gran torre del libro de magiasr---		||
+oscuridad avanzada		sr		||
+pasadizo oculto			sr		||
+caza del cielo maniobra-¡ondas de interferencia! sr	||
+estamos juntos			sr		||
+préstamo de suerte		sr		||
+caleidoscopio necroz		sr-		||
+onda doble			sr		||
+solo del 1er movimiento		sr		||
+dispositivo de aprendizaje de desechables	sr	||
+espejo de hielo			sr		||
+camino alucinado		sr		||
+monumento sincronía		sr		||
+circuito de armazón-psí		sr		||
+puño de chatarra		sr		||
+futuro de la fortuna		sr-		||
+beso de cupido			sr		||
+espejo de dragón		sr-		||
+libro de la vida		sr		||
+modo de ataque cero		sr-		||
+torbellino terrestre		sr		||
+ángel mecánico magnificante	sr-		||
+hacha inzektor-zektahalcón	sr		||
+nido de la golondrina		sr		||
+escudo central			sr		||
+campo magnético			sr--		||
+mordschlag			sr		||
+viento divino del valle brumoso	sr		||
+necroide de sincronía		sr		||
+origen revengamiedo		sr--		||
+renacimiento de la serpiente	sr		||
+unidad de maquinaria armada	sr		||
+ángel mecánico misericordioso	sr--		||
+carta de embargo		sr		||
+registro de prestidigitación	sr--		||
+zona de catapulta		sr		||
+trampa de boogie		sr		||
+entierro de una dimensión distinta	sr-	||
+los seis samuráis unidos	sr---		||
+barrera de luz			sr		||
+llamando al ganado		sr		||
+gesto final			sr		||
+campo de conducción fundido	sr		||
+afinado para la batalla		sr---		||
+cáliz del sabio			sr		||
+núcleo de diamante de koaíki meiru	sr	||
+pulverizar el escudo		sr		||
+sabatiel- la piedra filosofal	sr-		||
+santuario verde			sr		||
+territorio de caza de las arpíassr-		||
+acelerador morfotrónico		sr		||
+caja de basura			sr		||
+fusión del esgrimista de la espada de la destrucción 	sr--	||
+tormenta de chatarra		sr		||
+fiesta de crisálidas		sr-		||
+contra el viento		sr-		||
+espina de malicia		sr-		||
+espíritu de pelea		sr-		||
+factoría oscura de producción masiva	sr	||
+mapa morfotrónico		sr		||
+pacto de fausto			sr		||
+unidad de reparación morfotrónica	sr	||
+ojamandala			sr---		||
+escudo golpeador		sr		||
+reino vampiro			sr-		||
+relámpago del hechizo prohibido		sr	||
+nuzzler malévolo		sr		||
+explosión evolutiva		sr-		||
+¡impacto ciberoscuro!		sr-		||
+fusión de caballero-gema	sr-		||
+acusación errónea		sr--		||
+descanso eterno			sr		||
+pesadilla recurrente		sr		||
+hacha del desespero		sr		||
+zona de conexión vehicroid	sr		||
+libro de magia de la vida	sr-		||
+libro de magia de los secretos	sr-		||
+ofrecimiento sepulcro		sr		||
+poder del mago			sr		||
+espada de fusión hoja murasame	sr		||
+herencia de magia oscura	sr-		||
+ojamasimilacióp			sr-		||
+herencia amazoness		sr		||
+jinete de refuerzo		sr-		||
+promesa del cristal		sr		||
+súper nutriente solar		sr		||
+capullo ultra evolutivo		sr		||
+aquaespejo gishki		sr-		||
+hacha de tontos			sr		||
+triángulo misterioso		sr		||
+pica de la falage		sr		||
+espadas al amanecer		sr		||
+hoja de rayos			sr		||
+liberación del alma		sr		||
+ciber planta de reparación	sr-		||
+mundo zombi			sr		||
+excavación de la piedra mágica	sr-		||
+vara descartable		sr-		||
+torbellino paralelo		sr-		||
+bosque cerrado			sr		||
+aumentador rápido		sr		||
+arremetida imprudente		sr		||
+máscara de brutalidad		sr		||
+faro de cristal			sr		||
+amuleto de la ambición		sr		||
+incautador de criatura		sr		||
+decisión dolorosa		sr---		||
+cartas preciosas del más allá	sr		||
+llamada de la momia		sr		||
+pantanos			sr		||
+columpio de los recuerdos	sr		||
+habitación de encantar		sr-		||
+la flaura de invocación de kuriboh 	sr---	||
+ritual absoluto del ángel mecánico	sr--	||
+huracán ojama delta		sr--		||
+poder de gaia			sr		||
+salamandra			sr		||
+mundo jurásico			sr		||
+captura de poder mágico		sr		||
+corriente de aire ascendente	sr		||
+provisiones de emergencia	sr		||
+umiiruka			sr		||
+cuerno del unicornio		sr		||
+inversión magnética		sr		||
+disparador de gravedad		sr		||
+chispa reluciente		sr		||
+zona de plasma místico		sr-		||
+perspicacia de ojos rojos	sr--		||
+destrucción fundidad		sr		||
+super apuro de cabeza		sr-		||
+mausoleo del emperador		sr		||
+un océano legendario		sr-		||
+7 completado			sr		||
+apuesta				sr		||
+arrastrado a la tumba		sr		||
+ataque ardiente oscuro		sr		||
+faro de blanco			sr-		||
+majestad de azules ojos		sr-		||
+plantador mágico		sr-		||
+robo adelantado			sr		||
+wok mystik			sr		||
+ciudadela mágica de endimión	sr--		||
+el guerrero volviendo con vida	sr-		||
+espada divina-hoja del fénix	sr		||
+festín salvaje lv5		sr		||
+palaberinto del archidemonio	sr		||
+puerta extra			sr-		||
+puerta de monstruo		sr-		||
+enseñando obediencia		sr-		||
+plantas locas de atar		sr		||
+invocación doble		sr-		||
+pared mágica de hechicería	sr		||
+portal al caos			sr-		||
+diversifica			sr		||
+cestus de dagla			sr		||
+goblin espiando			sr-		||
+rayo del big bang		sr		||
+duplicación de máquina		sr		||
+palacio brillante		sr		||
+tabla de contenidos toon	sr-		||
+espejo de yata			sr		||
+oscuridad creciente		sr		||
+punto de poder del shinobird	sr		||
+tierra ardiente			sr		||
+dian keto, el señora de la curación	sr-	||
+estimu-pack			sr		||
+la tumba superficial		sr		||
+estallido mágico		sr		||
+lluvia de piedad		sr		||
+olla de la dicotomía		sr		||
+arco estrella fugaz-ceal	sr		||
+hacha de gravedad- grarl	sr		||
+espiritualismo			sr		||
+fuego de dragón			sr-		||
+carta de santidad		sr-		||
+mimigato			sr-		||
+mundo toon			sr--		||
+anguila de la avaricia		sr		||
+coste de abajo			sr		||
+ovejas extraviadas		sr-		||
+armadura insecto con cañón laser	sr	||
+ataque mágico oscuro		sr---		||
+baya de la supremacía		sr		||
+caja mística			sr-		||
+cambiacarta			sr-		||
+cementerio silencioso		sr		||
+corazón del oprimido		sr-		||
+dado grácil			sr-		||
+el batir de alas del dragón gigante	sr	||
+escudo y espada			sr-		||
+espada de rituales oscuros	sr		||
+flamberge rompedor-baou		sr		||
+formación fénix de la dama arpíasr		||
+fragmento de codicia		sr-		||
+fórmula mágica			sr-		||
+globos maravillosos		sr-		||
+gran píldora de evolución	sr		||
+imitación de insecto		sr		||
+makiu, la niebla mística	sr		||
+monolito del gravekeeper	sr-		||
+movimiento de difusión de olas	sr		||
+máscara de los malditos		sr		||
+orden de carga			sr		||
+rayo explosivo de destrucción	sr--		||
+recarga				sr-		||
+retorno de los condenados	sr		||
+riesgo acuático			sr-		||
+segundo lanzamiento de moneda	sr		||
+templo de los reyes		sr		||
+vara mágica 			sr--		||
+
+-------------------------------------------------
+
+granada de humo del ladrón	R		||
+
+formación del caos				||
+fusión magicalizada				||
+ua tácticas para ganar				||
+paso del tiempo					||
+evolución vengamiedo				||
+ola de movimiento infernal			||
+asimmetafis					||
+contacto del señoroscuro			||
+ascetismo de los seis samuráis			||
+castillo dorado de stromberg			||
+formación de uego yoko				||
+regalo espacial					||
+convertir contacto				||
+de-sincronía					||
+máquina de bingo ¡¡¡vamos!!!			||
+crónica de conjuros				||
+abis-escamas del mizuchi			||
+deseo del vampiro				||
+corte de espada silencioso			||
+libro de magia del destino			||
+libro de magia del poder			||
+espíritu de lucha amazoness			||
+bendición de cristal				||
+liberación de cristal				||
+las artes prohibidas de los gishki		||
+aplastamiento frenético				||
+acelerador de llama				||
+acelerador de  llama triple			||
+árbol de cristal				||
+armadura de asalto				||
+H-Corazón ardiente				||
+ojamúsculo					||
+país de ojamas					||
+recuperación de fusión				||
+reglas antíguas					||
+fusión súbita					||
+el santuario en el cielo			||
+quema silenciosa				||
+nivel arriba					||
+cápsula de otra dimensión			||
+detonar						||
+multiplicar					||
+síntesis del súper soldado			||
+emblema de destructor de dragones		||
+absorción del alma				||
+oleada de calor					||
+bendición del hadita				||
+montaña						||
+yami						||
+mil cuchillos					||
+umi						||
+
+-------------------------------------------
+última esperanza de nephtys			||
+rechazo de gladiador				||
+magia oscura de ráfaga doble			||
+noches vengamiedo				||
+pesadilla vengamiedo				||
+el colmillo de critias				||
+la garra de hermos				||
+leyenda del corazón				||
+choque en las cavernas del subterror		||
+juego de niños					||
+poder del guardián				||
+renacer de nephtys				||
+velo blanco					||
+abis-escamas de cetus				||
+compresión del núcleo				||
+descarte inmediato del núcleo de hierro		||
+Núcleo de hierro de koa'ki meiru		||
+dominio del vampiro				||
+seis pergaminos de los samurái			||
+corazón del héroe				||
+libro de magia de la eternidad			||
+libro de magia del maestro			||
+caja de cambios dorada				||
+castillo de enfrentamiento de los karakuris	||
+karakuri descontrolado				||
+fotoespejo gishki				||
+el dojo de shien---				||
+espada de bambú dorada				||
+'	'	rota				||
+ataque de los seis impacto triple		||
+NEX						||
+etiqueta de fusión				||
+ordenando el libro de magia			||
+7						||
+ataque cruzado					||
+espía de shien					||
+pasaje secreto a los tesoros			||
+revolución restructer				||
+
+
+------------------------------------------------
+samurai superpesado bestia kyubi	n	||
+caballero dracounidad - gae dearg	sr	||
+caballero dracounidad - gae bulg	r	||
+'	'	'	tridente	r	||
+alanegra armado				sr	||
+'	' vientoplateado el ascendente	r	||
+'	' gram la estrella brillante	n	||
+dragón inférnico de la perdición	ur	||
+guerrero poderoso			ur	||
+dragón de chatarra			ur	||
+dragón de los 100 ojos			ur	||
+dragón elevador rojo			ur	||
+'	'doble de chatarra		ur	||	
+guerrero del camino			ur	||
+shi en					ur	||
+archideonio dey del caos		ur	||
+dragón lavalal				ur	||
+dragón rojo archidemonio		ur	||
+destructor de basura			ur	||
+guerrero del rayo			ur	||
+dragón hada antiguo			ur	||
+dragón taladro				ur	||
+berserker de basura			ur	||
+dragón de polvo de estrellas		ur	||
+guerrero de basura			ur	||
+sable xx hyunlei			ur	||
+ardiente dragón rojo archidemonio de la bajeza sr||
+rosa espléndida				sr	||
+dragón mechataladro			sr	||
+arquero de basura			sr	||
+vulcan el divino			sr	||
+reclamo de archidemonio			sr	||
+dragón necro zombi de ojos rojos	sr	||
+guerrero nitro				sr	||
+guerrero de la carga del polvo...	sr	||
+defensor goyo				sr	||
+caballero gaia, la fuerza de la tierra	sr	||
+guerreo de asalto del polvo de...	sr	||
+hts psicohemot				sr	||
+sable x wayne				sr	||
+dragón cunagrís				r	||
+juicio, el dragón del cielo		r	||
+monoceros aura blanca			r	||
+caballero de la flor			r	||
+guerrero de la gravedad			r	||
+sable x souza				r	||
+sable x	urbellum			n	||
+
+
+
+-------------------------------------------------
+higo maldito				sr
+simorg pájaro divino			r
+sable-xx emmersblade			r
+donpa, tirador mascota a sueldo		r2
+recon, exploradora mascota a sueldo	r
+ratón llave				r
+tumulto de mascota a sueldo		r
+sable-x axel				n
+valafar koa´ki meiru			n
+barrera acuática koa'ki meiru		n
+koa'ki meiru gulungulado		n
+wybb tormentosa				n
+pájaro de fuego				n
+elephun					n
+entrenamiento de mascota a sueldo, para tus necesidades	n
+impulso límite				n
+avatar del rey de fuego barong		r
+'	'	'	'kirin		n
+fénix sagrado de nephtys		ur		||
+discípula de nephtys			r		||
+defensora de nephtys			r		||
+matriarca de nephtys			n		||
+	
+túnica del mago				sr		||
+magia de salte				ur		||
+mago quinteto				sr		||
+cráneo zombi				r		||
+
+
+pip install pygame
+pip install kivy
+-----------------------------------------------
+despertar de nephtys			r
